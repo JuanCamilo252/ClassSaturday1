@@ -15,12 +15,22 @@ void PrintMenu() {
 }
 void PrintBalance(int balance) {
 	system("cls");
-	char character;
+	int choice;
 	printf("Your Balance is %i\n", balance);
 	printf("1. Deposit Money\n");
 	printf("2. Withdraw Money\n");
-	scanf_s(" %c", &character,1);
+	scanf_s("%i", &choice);
+	switch (choice)
+	{
+	case 1:
+		//Deposit Money Function
+	case 2:
+		//Withdraw Money Function
+	default:
+		break;
+	}
 }
+
 
 int main() {
 	int choice = 0;
@@ -41,6 +51,7 @@ int main() {
 
 		case 3:
 		case 4:
+
 		default:
 			break;
 		}
