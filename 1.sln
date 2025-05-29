@@ -53,6 +53,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22.LikedList", "22.LikedLis
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23.LikedList2", "23.LikedList2\23.LikedList2.vcxproj", "{C907984B-7EDC-4149-8642-A733E27AEB56}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24.DoubleLinkList", "24.DoubleLinkList\24.DoubleLinkList.vcxproj", "{F42B003A-6ACD-4F59-850E-788A4980C697}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -261,6 +263,14 @@ Global
 		{C907984B-7EDC-4149-8642-A733E27AEB56}.Release|x64.Build.0 = Release|x64
 		{C907984B-7EDC-4149-8642-A733E27AEB56}.Release|x86.ActiveCfg = Release|Win32
 		{C907984B-7EDC-4149-8642-A733E27AEB56}.Release|x86.Build.0 = Release|Win32
+		{F42B003A-6ACD-4F59-850E-788A4980C697}.Debug|x64.ActiveCfg = Debug|x64
+		{F42B003A-6ACD-4F59-850E-788A4980C697}.Debug|x64.Build.0 = Debug|x64
+		{F42B003A-6ACD-4F59-850E-788A4980C697}.Debug|x86.ActiveCfg = Debug|Win32
+		{F42B003A-6ACD-4F59-850E-788A4980C697}.Debug|x86.Build.0 = Debug|Win32
+		{F42B003A-6ACD-4F59-850E-788A4980C697}.Release|x64.ActiveCfg = Release|x64
+		{F42B003A-6ACD-4F59-850E-788A4980C697}.Release|x64.Build.0 = Release|x64
+		{F42B003A-6ACD-4F59-850E-788A4980C697}.Release|x86.ActiveCfg = Release|Win32
+		{F42B003A-6ACD-4F59-850E-788A4980C697}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
